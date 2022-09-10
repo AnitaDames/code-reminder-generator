@@ -30,11 +30,3 @@ function generateRandomMessages(arr1, arr2, arr3) {
 
 
 generateRandomMessages(codeReminders, codeFacts, codeTips);
-
-
-
-
-
- 
-
-
